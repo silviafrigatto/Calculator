@@ -6,7 +6,7 @@ let calculate=(number)=>{
 
 let Result=()=>{
 	try{
-		result.value = eval(result.value)
+		result.value = eval(result.value) // rewrite this without eval
 	}
 	catch(err){
 		alert("Enter a valid input");
