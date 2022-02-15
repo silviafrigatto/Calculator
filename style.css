@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 	outline: none;
 	font-family: sans-serif;
-	backgorund-color: #ecf0f3;
+	background-color: #ecf0f3;
 }
 
 .container {
@@ -12,7 +12,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	backgorund-color: #ecf0f3;
+	background-color: #96b1d0;
 }
 
 .calc {
@@ -43,7 +43,7 @@ input {
 button {
 	box-shadow: inset 6px 6px 13px #fff,
 				6px 6px 13px rgba(0, 0, 0, .16);
-	background-color: #ecf0f3;
+	background-color: #efb4c1;
 	border: none;
 	border-radius: 50%;
 	width: 50px;
@@ -58,6 +58,6 @@ button {
 	border-radius: 42px;
 	box-shadow: inset 6px 6px 13px #fff,
 				6px 6px 13px rgba(0, 0, 0, .16);
-	background-color: #ecf0f3;
+	background-color: #efb4c1;
 }
 

@@ -12,3 +12,15 @@ let Result=()=>{
 		alert("Enter a valid input");
 	}
 }
+
+function percent(){
+	result.value = result.value / 100;
+}
+
+function clr(){
+	result.value = " ";
+}
+
+function del(){
+	result.value = result.value.slice(0, -1);
+}
